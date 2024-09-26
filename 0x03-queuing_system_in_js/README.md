@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8006b518-376e-4275-a4a2-4170b5ab69fd)
+
 Learning Objectives: 
 
 - How to run a Redis server on your machine
